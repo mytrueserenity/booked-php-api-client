@@ -3,7 +3,7 @@
  * Title: booked-php-api-client
  * Ver: 0.0.1 Beta
  * By: Ryan C Crawford
- * Email: ryan@mytrueserenity.com
+ * Email: ryanccrawford@live.com
  * 
  * This file is part of Booked PHP Client Libary. 
  * There are other files that make up the whole libary
