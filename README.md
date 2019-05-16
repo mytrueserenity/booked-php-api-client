@@ -1,6 +1,6 @@
 # booked-php-api-client
 Booked PHP API Client Library
-by ryan@mytrueserenity.com ( ryanccrawford@live.com )
+by ryanccrawford@live.com
 
 <h2>Hello every one!</h2>
 
